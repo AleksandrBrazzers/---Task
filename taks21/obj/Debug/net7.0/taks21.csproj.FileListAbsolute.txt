@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\С# Task\taks21\bin\Debug\net7.0\taks21.exe
+C:\Users\User\Desktop\С# Task\taks21\bin\Debug\net7.0\taks21.deps.json
+C:\Users\User\Desktop\С# Task\taks21\bin\Debug\net7.0\taks21.runtimeconfig.json
+C:\Users\User\Desktop\С# Task\taks21\bin\Debug\net7.0\taks21.dll
+C:\Users\User\Desktop\С# Task\taks21\bin\Debug\net7.0\taks21.pdb
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.AssemblyInfo.cs
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.dll
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\refint\taks21.dll
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.pdb
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\taks21.genruntimeconfig.cache
+C:\Users\User\Desktop\С# Task\taks21\obj\Debug\net7.0\ref\taks21.dll
